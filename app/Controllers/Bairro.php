@@ -40,7 +40,6 @@ class Bairro extends ResourceController
         $this->db = Database::connect();
     }
 
-
     public function index()
     {
         $data = json_decode(file_get_contents("php://input"));
