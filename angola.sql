@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Tempo de geração: 12-Jan-2022 às 19:45
+-- Tempo de geração: 22-Jan-2022 às 14:47
 -- Versão do servidor: 10.4.22-MariaDB
 -- versão do PHP: 8.0.13
 
@@ -687,7 +687,8 @@ INSERT INTO `distritos` (`id`, `cod`, `municipio_cod`, `nome`, `estado`, `create
 (521, 'D22E7C5E-AF8D-4B6C-954A-FFB4698D4EDF', 'DE53B0D7-F905-42F1-B988-04290DFF929F', 'São Pedro da Quilemba', 1, '2022-01-10 14:41:58', NULL, NULL),
 (522, 'D6D29380-5652-4116-A594-FFD66BA68764', 'CCB9786F-668C-498A-92E6-FEA3A7635154', 'Galanga', 1, '2022-01-10 14:41:58', NULL, NULL),
 (523, 'FEAE7877-C612-4898-B28E-FFDCC690BAA0', 'B127886A-41BB-47E0-9E88-1A9A432CCBC7', 'Samba Lucala', 1, '2022-01-10 14:41:58', NULL, NULL),
-(524, '13D909F4-AD84-4229-ADEE-FFF21E47239E', 'C46A1883-87C6-4366-A268-281D0A649090', 'Macocola', 1, '2022-01-10 14:41:58', NULL, NULL);
+(524, '13D909F4-AD84-4229-ADEE-FFF21E47239E', 'C46A1883-87C6-4366-A268-281D0A649090', 'Macocola', 1, '2022-01-10 14:41:58', NULL, NULL),
+(525, 'E5359534-4F37-4610-9ED4-55E972F5FBE0', '20197CBC-2F8D-49F5-A955-F67C23FAEE54', 'Kilamba', 1, '2022-01-12 19:54:19', NULL, NULL);
 
 -- --------------------------------------------------------
 
@@ -975,7 +976,7 @@ ALTER TABLE `bairros`
 -- AUTO_INCREMENT de tabela `distritos`
 --
 ALTER TABLE `distritos`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=525;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=526;
 
 --
 -- AUTO_INCREMENT de tabela `municipios`
