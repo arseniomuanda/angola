@@ -1,0 +1,681 @@
+[
+  {
+    "cod": "11FACED4-6F91-4E43-877C-01D8C94181A2",
+    "nome": "Bairro prenda",
+    "distrito_cod": "1119CD65-9C69-465C-BCEE-25E19568029E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "D3F9BD59-459C-46AC-B336-0333DF0CEBE0",
+    "nome": "Bairro da funda",
+    "distrito_cod": "694D5212-94B7-4328-A0B3-6ACEBB9E34F4",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "E5C46CDE-8DB5-4C69-990A-04E55CFDDDC2",
+    "nome": "Bairro são pedro da barra",
+    "distrito_cod": "26266FF3-AFDB-4779-8F90-7524CAEFC297",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "8A5D2F1E-FB59-4BC3-9F26-0ADFBC4C1FC8",
+    "nome": "Bairro alvalade luanda",
+    "distrito_cod": "1119CD65-9C69-465C-BCEE-25E19568029E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "753531B9-1AC9-4713-A148-0CCEAEFF6D7B",
+    "nome": "Bairro do huambo",
+    "distrito_cod": "2B0AEFD6-E132-452B-9CAB-A915CFA4467E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "F68B855C-4CD1-42B1-B8CC-0D5297D70BD6",
+    "nome": "Bairro kinaxixi (patrice lumumba)",
+    "distrito_cod": "33CD1CB0-8926-4CAF-A61F-B50E2F53ECB2",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "1F315DB8-B118-44C0-9573-0ECE2F40BE6D",
+    "nome": "Bairro da kinanga",
+    "distrito_cod": "CBB275CE-D8A0-4A73-8A3F-7D05FF16EA13",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "085465F1-E5A5-463C-952C-0F87214420C9",
+    "nome": "Bairro cassenda",
+    "distrito_cod": "1119CD65-9C69-465C-BCEE-25E19568029E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "2C82B5E0-D18A-4FB5-B2E7-1049C408AA0E",
+    "nome": "Bairro miramar",
+    "distrito_cod": "26266FF3-AFDB-4779-8F90-7524CAEFC297",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "DC1E50DF-AD42-4AB6-89F2-1271E3DD607F",
+    "nome": "Bairro da dona malha",
+    "distrito_cod": "33CD1CB0-8926-4CAF-A61F-B50E2F53ECB2",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "643B758E-F20A-4308-87E8-130181CE29C0",
+    "nome": "Bairro são pedro da barra",
+    "distrito_cod": "26266FF3-AFDB-4779-8F90-7524CAEFC297",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "86F1444F-0BD6-44C0-ABC8-13FCAF9A32A2",
+    "nome": "Bairro dos mulenvos luanda",
+    "distrito_cod": "694D5212-94B7-4328-A0B3-6ACEBB9E34F4",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "EBA023F4-D9C8-430B-87B5-14BF3089B21B",
+    "nome": "Bairro camama (comuna)",
+    "distrito_cod": "04B8AFF1-5587-40D5-87DA-558286C0E429",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "EAAA1C46-E3E4-4469-A847-16C9F539FD67",
+    "nome": "Bairro de chapa (via espressa luanda-benfica)",
+    "distrito_cod": "694D5212-94B7-4328-A0B3-6ACEBB9E34F4",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "3452632B-EFFE-418C-8174-1AB009996233",
+    "nome": "Bairro do curtume",
+    "distrito_cod": "31B83765-40A3-4E2E-BD4D-931C1226B8C6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "CB6CAF2E-C67D-44E8-A30F-260B03059303",
+    "nome": "Bairro 1º de maio de luanda",
+    "distrito_cod": "1119CD65-9C69-465C-BCEE-25E19568029E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "2D8DB9FE-4373-4A4D-868B-2CECC4E5C01F",
+    "nome": "Bairro do Zango II",
+    "distrito_cod": "2B0AEFD6-E132-452B-9CAB-A915CFA4467E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "D50407D2-B06A-4FB5-9146-39B48354F51D",
+    "nome": "Bairro campismo luanda",
+    "distrito_cod": "26266FF3-AFDB-4779-8F90-7524CAEFC297",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "65A948BA-DEC2-4CC8-A1F4-3A6087006ADA",
+    "nome": "Bairro nelito sores (vila alice)",
+    "distrito_cod": "33CD1CB0-8926-4CAF-A61F-B50E2F53ECB2",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "B8DD63F4-5DE9-4F7B-BAE7-4052A985C749",
+    "nome": "Bairro da cuca",
+    "distrito_cod": "31B83765-40A3-4E2E-BD4D-931C1226B8C6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "E12D2A9C-4A14-4DFB-95D0-43502E062629",
+    "nome": "Bairro mabor",
+    "distrito_cod": "31B83765-40A3-4E2E-BD4D-931C1226B8C6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "E24BFC3E-AFEC-4903-9A10-45C378ACE210",
+    "nome": "Bairro ser. Madó",
+    "distrito_cod": "31B83765-40A3-4E2E-BD4D-931C1226B8C6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "DA4E1ECB-24E5-48DD-A567-470ADD816839",
+    "nome": "Luanda sul",
+    "distrito_cod": "2B0AEFD6-E132-452B-9CAB-A915CFA4467E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "632E8370-5A53-45BC-820B-4772E26EC6AA",
+    "nome": "Bairro dos bois",
+    "distrito_cod": "2B0AEFD6-E132-452B-9CAB-A915CFA4467E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "A5AD0447-0ECD-4EA4-997B-4788EE2AAF4C",
+    "nome": "Bairro cimangola",
+    "distrito_cod": "694D5212-94B7-4328-A0B3-6ACEBB9E34F4",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "F0C45BEA-533D-42DB-AA51-47A3D8B1621F",
+    "nome": "Bairro morro da luz",
+    "distrito_cod": "CBB275CE-D8A0-4A73-8A3F-7D05FF16EA13",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "B0AE4828-DDD1-47EC-BA32-4B9804283E6C",
+    "nome": "Bairro nguanhã",
+    "distrito_cod": "26266FF3-AFDB-4779-8F90-7524CAEFC297",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "8171E075-57B1-4360-B39B-58122832103F",
+    "nome": "Bairro márteres do kifangondo",
+    "distrito_cod": "1119CD65-9C69-465C-BCEE-25E19568029E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "8A0BD4F8-FC82-4D09-9CDD-5B4F1B629D9F",
+    "nome": "Kicolo luanda",
+    "distrito_cod": "694D5212-94B7-4328-A0B3-6ACEBB9E34F4",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "01ECC164-725D-445D-BDBC-5DFC133C5C0F",
+    "nome": "Bairro sonefe",
+    "distrito_cod": "31B83765-40A3-4E2E-BD4D-931C1226B8C6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "86E259C9-B8AD-456F-AF27-620974BC840D",
+    "nome": "Bairro popular de luanda",
+    "distrito_cod": "33CD1CB0-8926-4CAF-A61F-B50E2F53ECB2",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "56344DDB-5692-4DE9-BD28-697BE57E144A",
+    "nome": "Bairro kifangondo luanda",
+    "distrito_cod": "694D5212-94B7-4328-A0B3-6ACEBB9E34F4",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "30D38CDF-5A37-4BAF-BE17-6C1E8A7AC1F5",
+    "nome": "Bairro levilagi",
+    "distrito_cod": "31B83765-40A3-4E2E-BD4D-931C1226B8C6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "3BB68D9F-6ABB-4E79-BE23-6DE9CC26D340",
+    "nome": "Cassequel do buraco",
+    "distrito_cod": "04B8AFF1-5587-40D5-87DA-558286C0E429",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "D19C79A3-B790-41ED-991B-7316DC6E3BCB",
+    "nome": "Bairro marçal",
+    "distrito_cod": "26266FF3-AFDB-4779-8F90-7524CAEFC297",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "BDDAB54C-8798-4F3A-BCFA-78514F4E41DF",
+    "nome": "Hoji ya henda",
+    "distrito_cod": "31B83765-40A3-4E2E-BD4D-931C1226B8C6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "13D835BA-4AA2-4A0E-A99C-7BCAADAA6238",
+    "nome": "Cassequel do lourenço",
+    "distrito_cod": "04B8AFF1-5587-40D5-87DA-558286C0E429",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "ECFC7B4A-8945-4322-BA17-8076371FE91A",
+    "nome": "Bairro dos ossos",
+    "distrito_cod": "26266FF3-AFDB-4779-8F90-7524CAEFC297",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "EE1FCDD1-FCB7-4938-9F8F-836677CEE508",
+    "nome": "Bairro petrangol",
+    "distrito_cod": "26266FF3-AFDB-4779-8F90-7524CAEFC297",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "A8201AE1-E70E-4182-B3A8-854E997456C3",
+    "nome": "Bairro dos kwanzas",
+    "distrito_cod": "26266FF3-AFDB-4779-8F90-7524CAEFC297",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "80B68B04-0B5A-4744-9873-873BE6F537E2",
+    "nome": "Bairro calemba",
+    "distrito_cod": "04B8AFF1-5587-40D5-87DA-558286C0E429",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "14977390-46A8-4770-83AF-87530A4B68C5",
+    "nome": "Bairro robaldina luanda",
+    "distrito_cod": "2B0AEFD6-E132-452B-9CAB-A915CFA4467E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "50EF7D46-907E-4C3F-99E2-8ACFF863A7FE",
+    "nome": "Bairro morro bento",
+    "distrito_cod": "CBB275CE-D8A0-4A73-8A3F-7D05FF16EA13",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "544DA8BA-DE9D-43E5-93FC-8F5AD079DBE0",
+    "nome": "Bairro teixeira de luanda",
+    "distrito_cod": "04B8AFF1-5587-40D5-87DA-558286C0E429",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "AE84FA4C-0008-42AD-9C32-94EC0DADD2DD",
+    "nome": "Bairro do Zango III",
+    "distrito_cod": "2B0AEFD6-E132-452B-9CAB-A915CFA4467E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "97CA4CFB-DBAE-4A58-9F38-96EA4A166622",
+    "nome": "Bairro tala hadi",
+    "distrito_cod": "31B83765-40A3-4E2E-BD4D-931C1226B8C6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "37B06300-F80F-410F-8F3C-986B98BBACD8",
+    "nome": "Bairro catambor",
+    "distrito_cod": "1119CD65-9C69-465C-BCEE-25E19568029E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "579C18CE-F9A5-4EA0-BCAF-993B136948A3",
+    "nome": "Bairro talatona de luanda",
+    "distrito_cod": "CBB275CE-D8A0-4A73-8A3F-7D05FF16EA13",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "2E3DD495-42AF-41BA-963F-9FD7D85C4CF7",
+    "nome": "Bairro do chabá",
+    "distrito_cod": "CBB275CE-D8A0-4A73-8A3F-7D05FF16EA13",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "38B854A9-D724-417D-BC55-A0752D0B5808",
+    "nome": "Zamba 2",
+    "distrito_cod": "1119CD65-9C69-465C-BCEE-25E19568029E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "CD0E7180-3E0D-4511-912E-A3E7E443801D",
+    "nome": "Bairro cruzeiro",
+    "distrito_cod": "33CD1CB0-8926-4CAF-A61F-B50E2F53ECB2",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "F5211FEF-C99A-4D59-8EA0-A583C904E1DA",
+    "nome": "Bairro emcib",
+    "distrito_cod": "26266FF3-AFDB-4779-8F90-7524CAEFC297",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "E545D7A3-F452-4147-AE0E-A6B73C5B8705",
+    "nome": "Bairro km 30",
+    "distrito_cod": "2B0AEFD6-E132-452B-9CAB-A915CFA4467E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "5E5BC5C9-6FA6-49FE-9D50-A94CACC81C60",
+    "nome": "Bairros das b´s e das c´s (nelito soares)",
+    "distrito_cod": "33CD1CB0-8926-4CAF-A61F-B50E2F53ECB2",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "C9E41AE1-8AA9-41FA-BD44-B0C2C86F30A6",
+    "nome": "Bairro golf II",
+    "distrito_cod": "04B8AFF1-5587-40D5-87DA-558286C0E429",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "C584E7EC-8720-41BE-A948-B0DBD0FABF60",
+    "nome": "Cidade do kilamba",
+    "distrito_cod": "04B8AFF1-5587-40D5-87DA-558286C0E429",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "5EED40BC-ADC5-4479-9D82-B42B44B4D913",
+    "nome": "Bairro porto pesqueiro da boavista",
+    "distrito_cod": "26266FF3-AFDB-4779-8F90-7524CAEFC297",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "99E334DA-994C-4E12-9C5B-B4CC3A95E608",
+    "nome": "Bairro da bca luanda",
+    "distrito_cod": "2B0AEFD6-E132-452B-9CAB-A915CFA4467E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "756BB596-D144-4F5F-8E29-B775626EF4B3",
+    "nome": "Bairro golf I",
+    "distrito_cod": "04B8AFF1-5587-40D5-87DA-558286C0E429",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "779194CA-37CF-482F-82BB-B951E8B6EEBE",
+    "nome": "Bairro popular de luanda",
+    "distrito_cod": "04B8AFF1-5587-40D5-87DA-558286C0E429",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "A8685C5C-88E0-4E7C-AF73-BBB9137C6BDE",
+    "nome": "Bairro comandante valódia (combatentes)",
+    "distrito_cod": "26266FF3-AFDB-4779-8F90-7524CAEFC297",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "889BB1F5-4CFF-42BB-8313-BC72E31BA879",
+    "nome": "Bairro futungo de bellas",
+    "distrito_cod": "CBB275CE-D8A0-4A73-8A3F-7D05FF16EA13",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "E352C021-11AE-47FE-8DBA-C89CDC6BE3C1",
+    "nome": "Bairro grafanil de luanda",
+    "distrito_cod": "2B0AEFD6-E132-452B-9CAB-A915CFA4467E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "40B2392F-7AB7-4DA0-9FDD-CAE0099341CE",
+    "nome": "Bairro maluéka luanda",
+    "distrito_cod": "694D5212-94B7-4328-A0B3-6ACEBB9E34F4",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "4C2753F3-04EA-437C-8413-CE3692E4414B",
+    "nome": "Bairro tunga ngó",
+    "distrito_cod": "33CD1CB0-8926-4CAF-A61F-B50E2F53ECB2",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "F51D4AB0-77FC-4F4F-AFF5-CE92E60287A1",
+    "nome": "Bairro vila da mata luanda",
+    "distrito_cod": "2B0AEFD6-E132-452B-9CAB-A915CFA4467E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "81A9E6D8-E295-4AB6-985F-CF45B40D3462",
+    "nome": "Bairro socola",
+    "distrito_cod": "31B83765-40A3-4E2E-BD4D-931C1226B8C6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "A5503D83-EBDC-46FD-BA38-CF9349D2C1CC",
+    "nome": "Bairro precol",
+    "distrito_cod": "33CD1CB0-8926-4CAF-A61F-B50E2F53ECB2",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "564A6105-EC5A-4BB5-9C24-D0F7234D6608",
+    "nome": "Bairro ngola kiluanje",
+    "distrito_cod": "26266FF3-AFDB-4779-8F90-7524CAEFC297",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "8E12E698-3420-4169-B96D-D1EC7758BA19",
+    "nome": "Ingombota",
+    "distrito_cod": "1C303FD7-AF05-447E-83C5-54D1BB0D5ED1",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "BB356D0A-08DC-4976-B2CE-D5BB1A7B286C",
+    "nome": "Bairro Operário Luanda",
+    "distrito_cod": "26266FF3-AFDB-4779-8F90-7524CAEFC297",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "F956E95B-4B55-43AC-8B4D-D6DCC96C6005",
+    "nome": "Bairro boavista",
+    "distrito_cod": "33CD1CB0-8926-4CAF-A61F-B50E2F53ECB2",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "620078DB-816F-4768-8A32-D76C9EF87409",
+    "nome": "Vila de viana",
+    "distrito_cod": "2B0AEFD6-E132-452B-9CAB-A915CFA4467E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "98F5111A-2FD2-4D63-A25C-D776CFD40A3E",
+    "nome": "Bairro chicala i e ii",
+    "distrito_cod": "33CD1CB0-8926-4CAF-A61F-B50E2F53ECB2",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "E51B0956-F7F1-48BE-A4D7-D84D83A485F1",
+    "nome": "São paulo de luanda",
+    "distrito_cod": "26266FF3-AFDB-4779-8F90-7524CAEFC297",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "3E278D6D-82B8-4978-9039-DAC52AB9B6FC",
+    "nome": "Mutamba de luanda",
+    "distrito_cod": "33CD1CB0-8926-4CAF-A61F-B50E2F53ECB2",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "45EF00C0-910F-4101-BE50-DC1528609931",
+    "nome": "Bairro benfica (comuna)",
+    "distrito_cod": "CBB275CE-D8A0-4A73-8A3F-7D05FF16EA13",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "727DA06F-A23F-403D-9278-DC487E59F501",
+    "nome": "São paulo de luanda",
+    "distrito_cod": "33CD1CB0-8926-4CAF-A61F-B50E2F53ECB2",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "F47FDC1F-D94E-47C0-BDB7-DDB90322746B",
+    "nome": "Bairro  boa esperança de luanda",
+    "distrito_cod": "694D5212-94B7-4328-A0B3-6ACEBB9E34F4",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "E3E98ECA-EDA5-4907-B1B7-DEB26DCAD533",
+    "nome": "Bairro da estalagem luanda",
+    "distrito_cod": "2B0AEFD6-E132-452B-9CAB-A915CFA4467E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "58E170AF-6AC4-4527-A8CD-E2D63A568901",
+    "nome": "Bairro nocal",
+    "distrito_cod": "31B83765-40A3-4E2E-BD4D-931C1226B8C6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "07AC8A88-A130-4EE1-95DE-E92A1807D3DE",
+    "nome": "Bairro do palanca luanda",
+    "distrito_cod": "04B8AFF1-5587-40D5-87DA-558286C0E429",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "153B8D2F-7CB3-4DEC-BCDE-EA7AFA579B25",
+    "nome": "Bairro dos ctt´s luanda",
+    "distrito_cod": "33CD1CB0-8926-4CAF-A61F-B50E2F53ECB2",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "F142ACBA-1D1A-4883-A818-EABD3CDBDC37",
+    "nome": "Bairro da vidrul  luanda",
+    "distrito_cod": "694D5212-94B7-4328-A0B3-6ACEBB9E34F4",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "EEB0B419-A87E-4840-8FD5-EC5463FB325B",
+    "nome": "Bairro do Zango I",
+    "distrito_cod": "2B0AEFD6-E132-452B-9CAB-A915CFA4467E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "BDE61049-8CC7-4AAB-929B-ED100F772D86",
+    "nome": "Projecto nova vida",
+    "distrito_cod": "CBB275CE-D8A0-4A73-8A3F-7D05FF16EA13",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "07B90FFA-AE5A-487B-9317-EF4E21B7132D",
+    "nome": "Calumbo",
+    "distrito_cod": "2B0AEFD6-E132-452B-9CAB-A915CFA4467E",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "74788F34-A7AF-4A89-BBFD-F202172C4AF1",
+    "nome": "Baleizão e marginal de luanda",
+    "distrito_cod": "33CD1CB0-8926-4CAF-A61F-B50E2F53ECB2",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "2896E856-FCBA-4253-9F35-F286FE3444F5",
+    "nome": "Panguila",
+    "distrito_cod": "694D5212-94B7-4328-A0B3-6ACEBB9E34F4",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "34D5C09D-A388-41C5-BC27-F2AB5897EA0A",
+    "nome": "Bairro do balumuka luanda",
+    "distrito_cod": "694D5212-94B7-4328-A0B3-6ACEBB9E34F4",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "EEE14352-CA0C-49BC-BE9A-F514E9EBF04A",
+    "nome": "Bairro paraíso luanda",
+    "distrito_cod": "694D5212-94B7-4328-A0B3-6ACEBB9E34F4",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "4DA79D23-61AF-4D1C-99E9-F5DE7D11426B",
+    "nome": "Bairro uige",
+    "distrito_cod": "26266FF3-AFDB-4779-8F90-7524CAEFC297",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "2D125842-4532-46D9-B2B0-F89D2032DA99",
+    "nome": "Maculusso de luanda",
+    "distrito_cod": "33CD1CB0-8926-4CAF-A61F-B50E2F53ECB2",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "33820F02-42CC-4D36-9F3A-FA8A1ACF64E8",
+    "nome": "Bairro marçal de luanda",
+    "distrito_cod": "33CD1CB0-8926-4CAF-A61F-B50E2F53ECB2",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "CA3D24C0-B660-4F9A-8C40-FAB9AA5E76D2",
+    "nome": "Cassequel",
+    "distrito_cod": "04B8AFF1-5587-40D5-87DA-558286C0E429",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "0A8D8937-0900-4503-935D-FBC854E0457B",
+    "nome": "Bairro katinton",
+    "distrito_cod": "CBB275CE-D8A0-4A73-8A3F-7D05FF16EA13",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  },
+  {
+    "cod": "8BF44A9F-5803-4DF1-8597-FEA2C6CD7C30",
+    "nome": "Bairro dos ramiros luanda",
+    "distrito_cod": "CBB275CE-D8A0-4A73-8A3F-7D05FF16EA13",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:43.103"
+  }
+]

@@ -1,0 +1,1122 @@
+[
+  {
+    "cod": "50231048-9955-44B7-B6A5-0101A542BB47",
+    "nome": "Piri",
+    "provincia_cod": "789AD89B-05C1-40E8-9FAC-4E0B17864E4F",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "094FD62B-C114-4D80-98A2-033FCD418851",
+    "nome": "Mungo",
+    "provincia_cod": "92072927-48E3-4F8F-8195-9F208519C9C3",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "DE53B0D7-F905-42F1-B988-04290DFF929F",
+    "nome": "Dondo",
+    "provincia_cod": "E3C64313-2555-4794-92C2-F72ECD2F2B16",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "6BA27A83-0B2E-409E-925C-04510F0085D0",
+    "nome": "Nharea",
+    "provincia_cod": "74961F03-BAB0-4A3E-9CAA-447DA8D43152",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "F482BFB1-23A1-4B1E-8978-048EEA667032",
+    "nome": "Chorongói",
+    "provincia_cod": "EE733F9D-EF46-4F79-B714-B85A4220F23C",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "30D15A20-4B86-45B2-AA12-0887FEA55328",
+    "nome": "Kalandula",
+    "provincia_cod": "B674628E-AEB8-4126-90E5-F29B8BDF5BB6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "121CBDF6-F0E4-49E0-AFEC-0916D71BF2C9",
+    "nome": "Ngonguembo",
+    "provincia_cod": "E3C64313-2555-4794-92C2-F72ECD2F2B16",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "0479407F-4C5A-43E3-96CE-0E8443E4AA1A",
+    "nome": "Negaje",
+    "provincia_cod": "F73BFA2C-4B29-461A-802E-BED6C4B489BD",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "87A19ECD-4296-4C2D-932D-0F55FE73C6C4",
+    "nome": "Cela",
+    "provincia_cod": "AA4986A3-0123-4F63-8A1D-91FB1A81DA4D",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "6EA87DB0-18CC-4A47-805E-10D6F70BB4BF",
+    "nome": "Marimba",
+    "provincia_cod": "B674628E-AEB8-4126-90E5-F29B8BDF5BB6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "29374DFE-2643-468D-B5B7-12E969AA47E9",
+    "nome": "Alto Zambeze",
+    "provincia_cod": "3B2AA3BF-7924-4409-AB48-791B36FEB0B9",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "031BA632-F266-4A45-A975-13E985A34F5B",
+    "nome": "Conda",
+    "provincia_cod": "AA4986A3-0123-4F63-8A1D-91FB1A81DA4D",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "C7A1AA39-977B-46AA-ACB6-1540210150E4",
+    "nome": "Benguela",
+    "provincia_cod": "EE733F9D-EF46-4F79-B714-B85A4220F23C",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "D834A2C8-0A59-4D02-9A00-15A56DC9A83C",
+    "nome": "Maquela do Zombo",
+    "provincia_cod": "F73BFA2C-4B29-461A-802E-BED6C4B489BD",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "3464D973-EC63-42DC-BB18-165A1CB905BF",
+    "nome": "Tchicala-Tcholoanga",
+    "provincia_cod": "92072927-48E3-4F8F-8195-9F208519C9C3",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "3DECDC1C-617C-4733-93C9-17E6E908C0B1",
+    "nome": "Luacano",
+    "provincia_cod": "3B2AA3BF-7924-4409-AB48-791B36FEB0B9",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "30A58970-580C-4249-99D1-18263E95EC89",
+    "nome": "Rivungo",
+    "provincia_cod": "8DB702AB-D22A-4DA9-8E00-386F311881A5",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "409D9F8A-201D-4A50-BD04-1988525B794D",
+    "nome": "Quela",
+    "provincia_cod": "B674628E-AEB8-4126-90E5-F29B8BDF5BB6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "5C00C793-8E44-46E3-9886-199912E1399A",
+    "nome": "Quimbele",
+    "provincia_cod": "F73BFA2C-4B29-461A-802E-BED6C4B489BD",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "B127886A-41BB-47E0-9E88-1A9A432CCBC7",
+    "nome": "Samba Cajú",
+    "provincia_cod": "E3C64313-2555-4794-92C2-F72ECD2F2B16",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "C73D6723-280C-4A43-A8CC-1B5F7F656607",
+    "nome": "Lubalo",
+    "provincia_cod": "A0323CBA-BEC1-4724-B8A1-59576A3469AC",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "AA7125DF-9835-4CF5-A206-1DC68291C013",
+    "nome": "Cangandala",
+    "provincia_cod": "B674628E-AEB8-4126-90E5-F29B8BDF5BB6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "2AFED61E-743E-49DE-86F4-1E274BD5F081",
+    "nome": "Cuango",
+    "provincia_cod": "A0323CBA-BEC1-4724-B8A1-59576A3469AC",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "061C6F88-0F23-4628-A44C-2095FF51BD5E",
+    "nome": "Capenda-Camulemba",
+    "provincia_cod": "A0323CBA-BEC1-4724-B8A1-59576A3469AC",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "EC820D2D-1864-4CC1-B1E8-23325139985A",
+    "nome": "Quiculungo",
+    "provincia_cod": "E3C64313-2555-4794-92C2-F72ECD2F2B16",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "B70A1049-ACC4-409D-8570-2668A036FD57",
+    "nome": "Ekunha",
+    "provincia_cod": "92072927-48E3-4F8F-8195-9F208519C9C3",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "C46A1883-87C6-4366-A268-281D0A649090",
+    "nome": "Santa Cruz",
+    "provincia_cod": "F73BFA2C-4B29-461A-802E-BED6C4B489BD",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "B0B0F658-91E1-4299-9961-339051FC1F4F",
+    "nome": "Catabola",
+    "provincia_cod": "74961F03-BAB0-4A3E-9CAA-447DA8D43152",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "817503E7-B284-4ED9-9658-351321C1CF21",
+    "nome": "Léua",
+    "provincia_cod": "3B2AA3BF-7924-4409-AB48-791B36FEB0B9",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "7295C345-3BEE-4453-AA61-361EA433E564",
+    "nome": "Banga",
+    "provincia_cod": "E3C64313-2555-4794-92C2-F72ECD2F2B16",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "CEDEB8F2-9759-4BBC-B603-36C3FBDAB65E",
+    "nome": "Cuito Cuanavale",
+    "provincia_cod": "8DB702AB-D22A-4DA9-8E00-386F311881A5",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "BF51BF49-3A74-4BBC-AE7F-38B712505CC3",
+    "nome": "Cazengo",
+    "provincia_cod": "E3C64313-2555-4794-92C2-F72ECD2F2B16",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "4D4FF4DA-35F0-4CD5-8EC9-3B5C019A2BF2",
+    "nome": "Malanje",
+    "provincia_cod": "B674628E-AEB8-4126-90E5-F29B8BDF5BB6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "BBD9CA7A-DDEA-4458-ABCB-3D61F55720FF",
+    "nome": "Sumbe",
+    "provincia_cod": "AA4986A3-0123-4F63-8A1D-91FB1A81DA4D",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "C45DEDAD-F478-4940-9CCF-3EFEC5246201",
+    "nome": "Lobito",
+    "provincia_cod": "EE733F9D-EF46-4F79-B714-B85A4220F23C",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "D8402E17-6846-4CB6-8FB5-41882214A170",
+    "nome": "Camacupa",
+    "provincia_cod": "74961F03-BAB0-4A3E-9CAA-447DA8D43152",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "5C0B10DF-FAA4-4A4B-A2C3-41E659FC4DC3",
+    "nome": "Jamba",
+    "provincia_cod": "272CC35E-5C8B-4539-9CEF-1BBA324CCEBA",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "785AF770-D128-4772-86EA-452F6D649008",
+    "nome": "Ícolo e Bengo",
+    "provincia_cod": "C45F28AB-21C4-4F1B-9BA9-982406CC1FF9",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "205ECE07-4109-426C-9AB0-4666D65C8D34",
+    "nome": "Quiçama",
+    "provincia_cod": "C45F28AB-21C4-4F1B-9BA9-982406CC1FF9",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "9B584B80-743D-4159-AA32-478FB689F256",
+    "nome": "Andulo",
+    "provincia_cod": "74961F03-BAB0-4A3E-9CAA-447DA8D43152",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "351117B8-E175-4F3B-925A-47AB1800E115",
+    "nome": "Catchiungo",
+    "provincia_cod": "92072927-48E3-4F8F-8195-9F208519C9C3",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "1CF85767-2CA0-4144-A7E0-48009B723784",
+    "nome": "Cambulo",
+    "provincia_cod": "A0323CBA-BEC1-4724-B8A1-59576A3469AC",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "D18860F2-A2A7-4831-8EFB-49FD807B2081",
+    "nome": "Dala",
+    "provincia_cod": "15FE7935-F193-40DF-9B3E-D1DC26BE8621",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "BD80FA87-210C-4685-9F5D-4A4BAF4EB681",
+    "nome": "Cuvango",
+    "provincia_cod": "272CC35E-5C8B-4539-9CEF-1BBA324CCEBA",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "ED9F8FC1-1390-4856-97FB-4BABE86CDE2C",
+    "nome": "Saurimo",
+    "provincia_cod": "15FE7935-F193-40DF-9B3E-D1DC26BE8621",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "376AAC47-A547-4174-BF75-4D4774C90EF6",
+    "nome": "Belize",
+    "provincia_cod": "0E0EFB70-40D0-4352-B85C-967F88AA56F4",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "82D90711-9BAF-49BE-87B1-505A63E9D265",
+    "nome": "Namibe",
+    "provincia_cod": "A1128BDB-1593-467A-9DA6-5DDE38ABB654",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "9B69BBF6-CA66-46E9-8097-51D72201E6D8",
+    "nome": "Virei",
+    "provincia_cod": "A1128BDB-1593-467A-9DA6-5DDE38ABB654",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "2EE9EC4F-7DA6-4891-A783-568109B2B031",
+    "nome": "Huambo",
+    "provincia_cod": "92072927-48E3-4F8F-8195-9F208519C9C3",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "9BA7FA6B-BD0B-4D2E-A875-57E36FFF342A",
+    "nome": "Lucala",
+    "provincia_cod": "E3C64313-2555-4794-92C2-F72ECD2F2B16",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "F6D3D5D4-8965-4389-AE8A-57E85635A282",
+    "nome": "Bungo",
+    "provincia_cod": "F73BFA2C-4B29-461A-802E-BED6C4B489BD",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "E74901B1-AE12-45DA-B5BD-580244CBD113",
+    "nome": "Damba",
+    "provincia_cod": "F73BFA2C-4B29-461A-802E-BED6C4B489BD",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "91428DA2-07C4-422C-86EC-5AFC32645318",
+    "nome": "Chitembo",
+    "provincia_cod": "74961F03-BAB0-4A3E-9CAA-447DA8D43152",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "2870B726-33A0-4E0C-8B86-5B77C09E65CD",
+    "nome": "Ebo",
+    "provincia_cod": "AA4986A3-0123-4F63-8A1D-91FB1A81DA4D",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "84AA29C8-9338-41E6-BEB6-5B81D0640147",
+    "nome": "Chiange",
+    "provincia_cod": "272CC35E-5C8B-4539-9CEF-1BBA324CCEBA",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "A2643F1F-DB6C-42E0-97C0-5F5F764499AD",
+    "nome": "Uíge",
+    "provincia_cod": "F73BFA2C-4B29-461A-802E-BED6C4B489BD",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "41872744-0A70-44EB-B9D0-627AFB4DAC1D",
+    "nome": "Zala",
+    "provincia_cod": "789AD89B-05C1-40E8-9FAC-4E0B17864E4F",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "40E22571-E854-46F7-A3B2-6293F26E2F24",
+    "nome": "Curoca",
+    "provincia_cod": "9FB83939-8402-4FE9-A9C2-C3EC8376F990",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "F4840330-DFFD-4457-81FB-63266EE02629",
+    "nome": "Tomboco",
+    "provincia_cod": "1692CA68-B446-41AB-A9E6-34A2D8718BA5",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "7BA01971-F8FE-4171-AD95-63997ECFBC1B",
+    "nome": "Cabundi-Catembo",
+    "provincia_cod": "B674628E-AEB8-4126-90E5-F29B8BDF5BB6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "BA49C383-C597-4EEB-8A79-63F891C136FE",
+    "nome": "Luquembo",
+    "provincia_cod": "B674628E-AEB8-4126-90E5-F29B8BDF5BB6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "3513F578-EA59-4084-B574-64E66D097C90",
+    "nome": "Ombadja",
+    "provincia_cod": "9FB83939-8402-4FE9-A9C2-C3EC8376F990",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "1F8F6567-C305-43C0-8111-6590A116A366",
+    "nome": "Caluquembe",
+    "provincia_cod": "272CC35E-5C8B-4539-9CEF-1BBA324CCEBA",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "A4A5D210-C03D-4038-8520-65BDCA1AF8E7",
+    "nome": "Mucari",
+    "provincia_cod": "B674628E-AEB8-4126-90E5-F29B8BDF5BB6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "BA3AEBA6-311A-4BBB-90EA-67AC38D11EB1",
+    "nome": "Amboim",
+    "provincia_cod": "AA4986A3-0123-4F63-8A1D-91FB1A81DA4D",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "684B7D04-63D0-414A-BA9E-67EB47E28DE7",
+    "nome": "Ganda",
+    "provincia_cod": "EE733F9D-EF46-4F79-B714-B85A4220F23C",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "8D57C691-518C-4D1B-B4A8-6B0B212D15D6",
+    "nome": "Caála",
+    "provincia_cod": "92072927-48E3-4F8F-8195-9F208519C9C3",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "2A819D39-F50C-47BE-8DA2-6BC82DD4BFD7",
+    "nome": "Cacula",
+    "provincia_cod": "272CC35E-5C8B-4539-9CEF-1BBA324CCEBA",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "CD2AA418-B2FC-4503-8316-6D3D63D253A9",
+    "nome": "Namacunde",
+    "provincia_cod": "9FB83939-8402-4FE9-A9C2-C3EC8376F990",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "56DD3C6B-7AC5-4A23-9851-6DDA5CC25E76",
+    "nome": "Xá-Muteba",
+    "provincia_cod": "A0323CBA-BEC1-4724-B8A1-59576A3469AC",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "BBEBF7ED-BBAD-4B19-B850-6F2A1FA02451",
+    "nome": "Cubal",
+    "provincia_cod": "EE733F9D-EF46-4F79-B714-B85A4220F23C",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "5696138A-69DF-47C8-BB11-6FAD89EE053A",
+    "nome": "Balombo",
+    "provincia_cod": "EE733F9D-EF46-4F79-B714-B85A4220F23C",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "F7FB88AB-1762-4F6A-AFF7-6FD79595F622",
+    "nome": "Nancova",
+    "provincia_cod": "8DB702AB-D22A-4DA9-8E00-386F311881A5",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "54997B49-93A4-4F86-8A63-70BFE4CAD524",
+    "nome": "Cuvelai",
+    "provincia_cod": "9FB83939-8402-4FE9-A9C2-C3EC8376F990",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "6FA0C145-AEED-44BC-BFD8-73AB7EF95336",
+    "nome": "Mucaba",
+    "provincia_cod": "F73BFA2C-4B29-461A-802E-BED6C4B489BD",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "9B2C71C2-B0B9-44D5-B271-75AB8EE2A3B2",
+    "nome": "Viana",
+    "provincia_cod": "C45F28AB-21C4-4F1B-9BA9-982406CC1FF9",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "0A2C6AD7-3C24-48D2-A4A4-78F62A57B329",
+    "nome": "Longojo",
+    "provincia_cod": "92072927-48E3-4F8F-8195-9F208519C9C3",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "E981AAC9-99FB-49AC-AA29-7964B776FCAE",
+    "nome": "Cuílo",
+    "provincia_cod": "A0323CBA-BEC1-4724-B8A1-59576A3469AC",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "6D009DAA-0C5C-4A53-AEFC-79ECEF237F24",
+    "nome": "Chipindo",
+    "provincia_cod": "272CC35E-5C8B-4539-9CEF-1BBA324CCEBA",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "5E420E67-3E2B-4E0D-8BB7-7BADBC5B54CE",
+    "nome": "Kakuso",
+    "provincia_cod": "B674628E-AEB8-4126-90E5-F29B8BDF5BB6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "D50C1935-635E-41DA-870A-8002C5681D82",
+    "nome": "Chinguar",
+    "provincia_cod": "74961F03-BAB0-4A3E-9CAA-447DA8D43152",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "87B0F960-4514-4DE2-81A0-8090AF98C267",
+    "nome": "Muconda",
+    "provincia_cod": "15FE7935-F193-40DF-9B3E-D1DC26BE8621",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "4C813ADF-124B-4E6D-9DC2-8685E3E7A5D9",
+    "nome": "Quilenda",
+    "provincia_cod": "AA4986A3-0123-4F63-8A1D-91FB1A81DA4D",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "AB9C66A3-1D70-44E3-AB64-8706CC161D04",
+    "nome": "Seles",
+    "provincia_cod": "AA4986A3-0123-4F63-8A1D-91FB1A81DA4D",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "373C3B59-5878-48D4-B841-8D48C590F00B",
+    "nome": "Bailundo",
+    "provincia_cod": "92072927-48E3-4F8F-8195-9F208519C9C3",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "02B5E426-77DA-4B1B-8373-8E78FB4D843C",
+    "nome": "Lóvua",
+    "provincia_cod": "A0323CBA-BEC1-4724-B8A1-59576A3469AC",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "96343B05-D841-4DC9-A566-8EFB02880C90",
+    "nome": "Calai",
+    "provincia_cod": "8DB702AB-D22A-4DA9-8E00-386F311881A5",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "99634B50-661F-4C1B-A962-8F8CFD504146",
+    "nome": "Ambriz",
+    "provincia_cod": "789AD89B-05C1-40E8-9FAC-4E0B17864E4F",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "52E93C00-74C9-4FC6-8891-9080B44E837A",
+    "nome": "Mavinga",
+    "provincia_cod": "8DB702AB-D22A-4DA9-8E00-386F311881A5",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "FC51E4C1-29E4-4E51-9A8D-90FAF36B1123",
+    "nome": "Luena",
+    "provincia_cod": "3B2AA3BF-7924-4409-AB48-791B36FEB0B9",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "F6A07521-FCEE-462B-A925-924EC3B92257",
+    "nome": "Cassongue",
+    "provincia_cod": "AA4986A3-0123-4F63-8A1D-91FB1A81DA4D",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "344F455E-CFF0-4562-9F08-93EF00F146B2",
+    "nome": "Cameia",
+    "provincia_cod": "3B2AA3BF-7924-4409-AB48-791B36FEB0B9",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "B2C1A110-ABDA-4ECC-AB60-9453BE4FB30D",
+    "nome": "Buengas",
+    "provincia_cod": "F73BFA2C-4B29-461A-802E-BED6C4B489BD",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "29EF340A-6D66-40E8-B5E7-99AE2FC4416F",
+    "nome": "Luchazes",
+    "provincia_cod": "3B2AA3BF-7924-4409-AB48-791B36FEB0B9",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "424B2CD8-47C9-419A-AEDD-9AC565CB7712",
+    "nome": "Kuito",
+    "provincia_cod": "74961F03-BAB0-4A3E-9CAA-447DA8D43152",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "8BD46474-1021-44E7-9FC7-9BD517A3C58F",
+    "nome": "Cuchi",
+    "provincia_cod": "8DB702AB-D22A-4DA9-8E00-386F311881A5",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "03F27633-FCE1-4884-8362-9EE69C3A2B3E",
+    "nome": "Libolo",
+    "provincia_cod": "AA4986A3-0123-4F63-8A1D-91FB1A81DA4D",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "F5C018D2-3A96-454E-84EE-A0285FA54731",
+    "nome": "Cacuaco",
+    "provincia_cod": "C45F28AB-21C4-4F1B-9BA9-982406CC1FF9",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "98BA32F3-5008-46E5-8743-A1C23B316ED0",
+    "nome": "Lucapa",
+    "provincia_cod": "A0323CBA-BEC1-4724-B8A1-59576A3469AC",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "4CC131D2-1735-44C3-BE1A-A1EAACE11DD0",
+    "nome": "Catumbela",
+    "provincia_cod": "EE733F9D-EF46-4F79-B714-B85A4220F23C",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "45C0B9A6-F0EB-46B3-BA23-A22A0014F76F",
+    "nome": "M'Banza Congo",
+    "provincia_cod": "1692CA68-B446-41AB-A9E6-34A2D8718BA5",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "AC2FFD6D-53DB-48ED-B2B4-A2327032C1FB",
+    "nome": "Massango",
+    "provincia_cod": "B674628E-AEB8-4126-90E5-F29B8BDF5BB6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "4E2BCE1D-8AAC-4A08-8CB6-A2AE8820DA33",
+    "nome": "Quitexe",
+    "provincia_cod": "F73BFA2C-4B29-461A-802E-BED6C4B489BD",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "11284BD6-EA70-4290-9402-A3A269D9F3D8",
+    "nome": "Bocoio",
+    "provincia_cod": "EE733F9D-EF46-4F79-B714-B85A4220F23C",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "98C9D758-139D-4DFA-B166-A3C92654B467",
+    "nome": "Camongue",
+    "provincia_cod": "3B2AA3BF-7924-4409-AB48-791B36FEB0B9",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "FFB85FA1-346A-4BAA-AB3C-A6F7DA0F0003",
+    "nome": "Nambuangongo",
+    "provincia_cod": "789AD89B-05C1-40E8-9FAC-4E0B17864E4F",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "C42A3251-9EC5-4CCA-AF5F-A886AF3103F9",
+    "nome": "Caombo",
+    "provincia_cod": "B674628E-AEB8-4126-90E5-F29B8BDF5BB6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "40ADF4F5-74C6-4AEA-BA8E-A977F5FD7D67",
+    "nome": "Mussende",
+    "provincia_cod": "AA4986A3-0123-4F63-8A1D-91FB1A81DA4D",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "6A6CD1D6-22A8-4B91-8D02-A9882A919E92",
+    "nome": "Dirico",
+    "provincia_cod": "8DB702AB-D22A-4DA9-8E00-386F311881A5",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "51F98D7C-5CD3-4764-A695-AD1C0D2F195C",
+    "nome": "Chitato",
+    "provincia_cod": "A0323CBA-BEC1-4724-B8A1-59576A3469AC",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "D3C33111-87B3-4D3F-A8E6-AE3FB3406161",
+    "nome": "Ambuíla",
+    "provincia_cod": "F73BFA2C-4B29-461A-802E-BED6C4B489BD",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "EE701D60-3538-45C9-8DB7-B29BA8CB34CB",
+    "nome": "Humpata",
+    "provincia_cod": "272CC35E-5C8B-4539-9CEF-1BBA324CCEBA",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "B12B28B8-0191-4CE4-ACD1-B2A8AE05EDE9",
+    "nome": "Cunhinga",
+    "provincia_cod": "74961F03-BAB0-4A3E-9CAA-447DA8D43152",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "E02B7504-3830-4EC5-90E0-B6F976DEFD92",
+    "nome": "Quirima",
+    "provincia_cod": "B674628E-AEB8-4126-90E5-F29B8BDF5BB6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "6C2F8003-8546-4728-BE65-B87164C93632",
+    "nome": "Caimbambo",
+    "provincia_cod": "EE733F9D-EF46-4F79-B714-B85A4220F23C",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "B1A3F4A8-339D-4BA7-98DC-B96B84864220",
+    "nome": "Soyo",
+    "provincia_cod": "1692CA68-B446-41AB-A9E6-34A2D8718BA5",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "98C3634C-2100-42DD-8297-BB1F2D112D37",
+    "nome": "Cuimba",
+    "provincia_cod": "1692CA68-B446-41AB-A9E6-34A2D8718BA5",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "AA3DAA63-E52E-493C-8389-BDD60B5B5390",
+    "nome": "Caconda",
+    "provincia_cod": "272CC35E-5C8B-4539-9CEF-1BBA324CCEBA",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "516F4E27-2713-4133-BC97-BF9EF51D1C62",
+    "nome": "Bumbe",
+    "provincia_cod": "F73BFA2C-4B29-461A-802E-BED6C4B489BD",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "457CD8CF-1FFA-499C-A388-C01ABB6869A7",
+    "nome": "Cangula",
+    "provincia_cod": "A0323CBA-BEC1-4724-B8A1-59576A3469AC",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "9F9DB2D1-CC50-409D-AF9C-C026A18D36BB",
+    "nome": "Songo",
+    "provincia_cod": "F73BFA2C-4B29-461A-802E-BED6C4B489BD",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "DC8EF163-B8E7-4DE5-9DDB-C1845B1DCAD8",
+    "nome": "Cuanhama",
+    "provincia_cod": "9FB83939-8402-4FE9-A9C2-C3EC8376F990",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "AA440E0D-CB19-4F00-BC24-C21E89F4A7EE",
+    "nome": "Cacongo",
+    "provincia_cod": "0E0EFB70-40D0-4352-B85C-967F88AA56F4",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "F3EC5519-CDCB-4F53-BE76-C2A52C30D5AD",
+    "nome": "Cazenga",
+    "provincia_cod": "C45F28AB-21C4-4F1B-9BA9-982406CC1FF9",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "347F0D3B-15B3-49F0-811E-C3D759CD6B8A",
+    "nome": "Ucama",
+    "provincia_cod": "92072927-48E3-4F8F-8195-9F208519C9C3",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "E3B56790-78AF-4C42-B0D5-C42280239D17",
+    "nome": "Menongue",
+    "provincia_cod": "8DB702AB-D22A-4DA9-8E00-386F311881A5",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "25E59BD8-6F32-4D45-B4E3-C57DBE62AA3D",
+    "nome": "Quipungo",
+    "provincia_cod": "272CC35E-5C8B-4539-9CEF-1BBA324CCEBA",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "7531D356-4D89-42B6-A1A2-CB1760CCFDF1",
+    "nome": "Cabinda",
+    "provincia_cod": "0E0EFB70-40D0-4352-B85C-967F88AA56F4",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "BF5DB822-80D2-4E27-8DC5-CD1A4B69BBEA",
+    "nome": "Ambaca",
+    "provincia_cod": "E3C64313-2555-4794-92C2-F72ECD2F2B16",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "4B75E65D-2AB0-4EA3-A845-CDFA96F80123",
+    "nome": "Luau",
+    "provincia_cod": "3B2AA3BF-7924-4409-AB48-791B36FEB0B9",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "855356A2-1589-47F9-8CCB-CEDF33F306FB",
+    "nome": "Chicomba",
+    "provincia_cod": "272CC35E-5C8B-4539-9CEF-1BBA324CCEBA",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "67FD22E1-A186-46A3-8A69-CEF4686550E3",
+    "nome": "Quibala",
+    "provincia_cod": "AA4986A3-0123-4F63-8A1D-91FB1A81DA4D",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "4674CA01-B040-40FA-9048-CFC225098759",
+    "nome": "Caxito",
+    "provincia_cod": "789AD89B-05C1-40E8-9FAC-4E0B17864E4F",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "9CF62A01-E97C-4EE8-9239-D2DC9E69DBCA",
+    "nome": "Buco-Zau",
+    "provincia_cod": "0E0EFB70-40D0-4352-B85C-967F88AA56F4",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "CD9BCC30-60C9-4EB2-929A-D3A4DB6964AC",
+    "nome": "Cuemba",
+    "provincia_cod": "74961F03-BAB0-4A3E-9CAA-447DA8D43152",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "B5E2AC06-2043-4483-8B9F-D5BA9D3438C5",
+    "nome": "Bula Atumba",
+    "provincia_cod": "789AD89B-05C1-40E8-9FAC-4E0B17864E4F",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "81487FFA-796D-4700-8084-D74FF755C521",
+    "nome": "Bibala",
+    "provincia_cod": "A1128BDB-1593-467A-9DA6-5DDE38ABB654",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "2B3F4663-C113-452C-90C2-D8DF678E8183",
+    "nome": "Cuangar",
+    "provincia_cod": "8DB702AB-D22A-4DA9-8E00-386F311881A5",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "EAE6A317-95E6-489E-9024-DDDF47EBD339",
+    "nome": "Bundas",
+    "provincia_cod": "3B2AA3BF-7924-4409-AB48-791B36FEB0B9",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "514D6536-224B-40B3-8B4E-E051F7C9955E",
+    "nome": "Tômbua",
+    "provincia_cod": "A1128BDB-1593-467A-9DA6-5DDE38ABB654",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "62020DE8-0477-4930-8CED-E16786D8F95A",
+    "nome": "Sanza Pombo",
+    "provincia_cod": "F73BFA2C-4B29-461A-802E-BED6C4B489BD",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "D6773797-6D37-40EB-BE0C-E259AF537D88",
+    "nome": "Luanda",
+    "provincia_cod": "C45F28AB-21C4-4F1B-9BA9-982406CC1FF9",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "FC765713-E476-43C7-8C6D-E2C7D91413A4",
+    "nome": "Cacolo",
+    "provincia_cod": "15FE7935-F193-40DF-9B3E-D1DC26BE8621",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "F7FF3ADE-B9E7-4FB5-A984-E4D5FF851E22",
+    "nome": "Dande",
+    "provincia_cod": "789AD89B-05C1-40E8-9FAC-4E0B17864E4F",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "FDA07227-42FE-468E-8346-E52DBBCD516D",
+    "nome": "Baía Farta",
+    "provincia_cod": "EE733F9D-EF46-4F79-B714-B85A4220F23C",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "23FCBDE1-4789-451A-8401-E84D0C94DA2A",
+    "nome": "Tchindjenje",
+    "provincia_cod": "92072927-48E3-4F8F-8195-9F208519C9C3",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "3B85330C-1D71-4197-9CBB-E92AFB9874C7",
+    "nome": "Camacuio",
+    "provincia_cod": "A1128BDB-1593-467A-9DA6-5DDE38ABB654",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "86FB1E4D-09B9-456A-9EB5-E958F82DDAC1",
+    "nome": "Cahama",
+    "provincia_cod": "9FB83939-8402-4FE9-A9C2-C3EC8376F990",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "F7622B18-0F20-4B48-B95A-E98D42F58CD0",
+    "nome": "Cunda-Dia-Baze",
+    "provincia_cod": "B674628E-AEB8-4126-90E5-F29B8BDF5BB6",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "CCDF6A53-F4AF-4483-BA3C-ED414D5024D1",
+    "nome": "Bolongongo",
+    "provincia_cod": "E3C64313-2555-4794-92C2-F72ECD2F2B16",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "FD3D848D-1085-47B2-8838-EFEF01D16531",
+    "nome": "Lubango",
+    "provincia_cod": "272CC35E-5C8B-4539-9CEF-1BBA324CCEBA",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "57B0B49B-FAE8-4531-A376-F0F19FCD61C5",
+    "nome": "Nóqui",
+    "provincia_cod": "1692CA68-B446-41AB-A9E6-34A2D8718BA5",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "E203E876-3404-46D6-89F7-F4279E489C8F",
+    "nome": "Dembos",
+    "provincia_cod": "789AD89B-05C1-40E8-9FAC-4E0B17864E4F",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "1CBE8174-5C07-4759-B2CF-F63690FCD480",
+    "nome": "Nzeto",
+    "provincia_cod": "1692CA68-B446-41AB-A9E6-34A2D8718BA5",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "20197CBC-2F8D-49F5-A955-F67C23FAEE54",
+    "nome": "Belas",
+    "provincia_cod": "C45F28AB-21C4-4F1B-9BA9-982406CC1FF9",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "1A6AE46D-DED6-42A4-9F8A-FA2AA89C34B2",
+    "nome": "Porto Amboim",
+    "provincia_cod": "AA4986A3-0123-4F63-8A1D-91FB1A81DA4D",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "2D094F23-3E1A-4F40-BDFD-FBCA896C40F1",
+    "nome": "Cangola",
+    "provincia_cod": "F73BFA2C-4B29-461A-802E-BED6C4B489BD",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "CE7CBA81-7F31-4EC4-A8B3-FD0FD2A5FFCB",
+    "nome": "Matala",
+    "provincia_cod": "272CC35E-5C8B-4539-9CEF-1BBA324CCEBA",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "CCB9786F-668C-498A-92E6-FEA3A7635154",
+    "nome": "Londuimbale",
+    "provincia_cod": "92072927-48E3-4F8F-8195-9F208519C9C3",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  },
+  {
+    "cod": "D28AAB97-5048-4934-8054-FF6CFB5677FA",
+    "nome": "Golungo Alto",
+    "provincia_cod": "E3C64313-2555-4794-92C2-F72ECD2F2B16",
+    "estado": 1,
+    "Data": "2019-12-31 09:02:42.017"
+  }
+]
