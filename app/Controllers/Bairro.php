@@ -42,6 +42,8 @@ class Bairro extends ResourceController
 
     public function index()
     {
+
+        
         $data = json_decode(file_get_contents("php://input"));
         helper('funcao');
         if (isset($data) && (count($data) > 1)) {
